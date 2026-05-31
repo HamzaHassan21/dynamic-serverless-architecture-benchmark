@@ -178,9 +178,9 @@ The study investigates how execution location, caching behaviour, network distan
 
 ## References & Bibliography
 
-[References](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis/blob/main/References.md)
+[References](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark/main/References.md)
 
-[Bibliography](https://github.com/HamzaHassan21/lambda-vs-lambdaedge-performance-analysis/blob/main/Biliography.md)
+[Bibliography](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark/main/Biliography.md)
 
 ## IPD Presentation Video (YouTube)
 
