@@ -83,10 +83,7 @@ https://d2asztbanmsq98.cloudfront.net/products
 
 ## 7. Functional Validation
 
-This is something markers love seeing.
-
 ```md
-## Functional Validation
 
 Both architectures were validated using repeated endpoint testing.
 
@@ -101,7 +98,7 @@ Validated behaviours included:
 
 All functional test cases passed successfully.
 
-## Load Testing
+Load Testing
 
 Load testing was performed using k6.
 
@@ -117,7 +114,6 @@ k6 run load-testing/edge_test.js
 This section makes the repo look professional.
 
 ```md
-## Key Findings
 
 ### CloudFront Caching
 
