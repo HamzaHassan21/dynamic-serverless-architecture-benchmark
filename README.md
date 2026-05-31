@@ -174,9 +174,10 @@ The study investigates how execution location, caching behaviour, network distan
 
 ## References & Bibliography
 
-[References](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark/References.md)
+[References](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark/blob/main/References.md)
 
-[Bibliography](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark/Biliography.md)
+[Bibliography](https://github.com/HamzaHassan21/dynamic-serverless-architecture-benchmark/blob/main/Bibliography.md)
+
 
 ## IPD Presentation Video (YouTube)
 
