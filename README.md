@@ -252,8 +252,10 @@ The study investigates how execution location, caching behaviour, network distan
 
 ## References & Bibliography
 
+- [Report](Report.pdf)
 - [References](References.md)
 - [Bibliography](Bibliography.md)
+
 
 ---
 
@@ -261,9 +263,7 @@ The study investigates how execution location, caching behaviour, network distan
 
 The recorded IPD presentation and project demonstration video are available below:
 
-- [Benchmarking AWS Lambda vs Lambda@Edge](#)
-
-*(Replace the placeholder link with your YouTube URL.)*
+- [Benchmarking AWS Lambda vs Lambda@Edge](https://www.youtube.com/watch?v=SJjMhnbLknU&t=1s)
 
 ---
 
