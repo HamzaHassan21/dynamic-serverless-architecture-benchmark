@@ -279,7 +279,7 @@ Cloud & DevOps Engineering
 ### Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/hamzahassan21/
-- YouTube: https://www.youtube.com/channel/UC51JEAEBV8WXwf2ZLROvUJw
+- YouTube: https://www.youtube.com/@hamzahassan2121
 
 ---
 
